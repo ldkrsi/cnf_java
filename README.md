@@ -1,6 +1,6 @@
 # Conversion into CNF
 
-* * *
+
 
 ## What is CNF(Conjunctive Normal Form)?
 
