@@ -1,2 +1,2 @@
 # cnf_java
-Conversion into CNF step by step
+Conversion into CNF. Step by step.
