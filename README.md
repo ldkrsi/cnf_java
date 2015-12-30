@@ -1,5 +1,7 @@
 # Conversion into CNF
 
+Use java and regular expression
+
 ## What is CNF(Conjunctive Normal Form)?
 
 ## 
@@ -32,7 +34,7 @@ ex.
 A and AA ....... ok  
 A1 and B ....... not ok  
 
-## Run Program
+## Usage
 
 <pre>javac mainclass.java
 java mainclass input.txt output.txt
