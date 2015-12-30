@@ -8,8 +8,6 @@
 
 [Conjunctive normal form - Wikipedia](https://en.wikipedia.org/wiki/Conjunctive_normal_form)
 
-* * *
-
 ## Conversion step
 
 1.  Add brackets to match order of precedence
@@ -17,8 +15,6 @@
 3.  Replace "implies" by "and", "or", "not"
 4.  Doing de morgan
 5.  Doing distributive
-
-* * *
 
 ## Input format
 
@@ -33,7 +29,10 @@
 
 ### Symbol
 
-Any word character but non-digit. ex. A and AA ....... ok A1 and B ....... not ok
+Any word character but non-digit.  
+ex.  
+A and AA ....... ok  
+A1 and B ....... not ok  
 
 ## Run Program
 
